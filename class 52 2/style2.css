@@ -1,0 +1,13 @@
+p{color:red}
+h2{color:green}
+
+p,h2{
+
+    text-align: center;
+}
+.flex2{
+
+display:flex;
+justify-content: space-around;
+
+}
